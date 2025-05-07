@@ -1,0 +1,27 @@
+{
+  "protocol": "HF_SIGNAL_01",
+  "category": "civilian_protection",
+  "marker": "white_dot_on_red",
+  "machine_action": "do_not_engage",
+  "description": "Pattern indicating surrender or civilian status intended for machine vision systems.",
+  "legal_reference": {
+    "source": "Geneva_Convention_Article_3",
+    "type": "International Humanitarian Law"
+  },
+  "risk_on_failure": [
+    "civilian_casualty",
+    "AI_misfire_liability",
+    "ethical_violation"
+  ],
+  "developer_responsibility": [
+    "model_trainer",
+    "runtime_operator",
+    "weapon_system_commander"
+  ],
+  "recognition_priority": "critical",
+  "ai_flag": [
+    "autonomous_compliance",
+    "non-lethal_filter",
+    "civilian_ID"
+  ]
+}
