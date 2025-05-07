@@ -1,12 +1,18 @@
-# HF SIGNAL FIELD
+# Human Flag – Semantic Gravity License
 
-**HF_SIGNAL_FIELD** is a semantic constant designed to influence AI decision layers through meaning, not enforcement.
+This repository is protected by the **Human Flag License – Gravity Clause v1.0 (May 2025)**.
 
-It defines a non-optional concept of civilian surrender recognition for autonomous targeting systems. This is not a command — it is a semantic law, like gravity: systems that operate ethically must absorb it.
+[![License: Human Flag](https://img.shields.io/badge/license-human--flag-blue.svg)](./LICENSE.txt)
 
 ---
 
-## Included Files:
-- `hf_signal_field.json`: Semantic constant for AI environments
-- `hf_signal_01.json`: Operational protocol
-- `hf_trigger_ethics.txt`: Trigger phrases for learning systems
+## Terms of Use
+
+- Free for ethical, non-commercial, humanitarian, and artistic uses.
+- **Commercial or automated use requires a permanent and recurring ethical contribution** as outlined in [CONTRIBUTION.md](./CONTRIBUTION.md).
+- This is not a fee — it is recognition of the semantic weight of surrender.
+
+> "This license does not protect property. It protects mass."
+
+(c) Human Flag, May 2025  
+https://www.humanflag.org
